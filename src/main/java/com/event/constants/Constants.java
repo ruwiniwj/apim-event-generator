@@ -42,7 +42,4 @@ public class Constants {
     public static String defaultGatewayType = "SYNAPSE";
     public static String defaultLabel = "Synapse";
 
-    // constants for
-    public final static String connectionString = "<connection-string>";
-    public final static String eventHubName = "<event-hub-name>";
 }
